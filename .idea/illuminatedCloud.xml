@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IlluminatedCloudSettings">
+    <option name="connections">
+      <list>
+        <IlluminatedCloudConnection>
+          <option name="connectionName" value="denviol125@brave-goat-nbvvh1.com" />
+          <option name="connectionType" value="OAUTH" />
+          <option name="defaultModuleName" value="lwcSuperbadgeWithManifest" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/denviol125_brave_goat_nbvvh1_com/OfflineSymbolTable.zip" />
+        </IlluminatedCloudConnection>
+      </list>
+    </option>
+  </component>
+</project>
